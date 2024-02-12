@@ -15,10 +15,4 @@
 
 
 
-
-
-
-
-
-
 # AI-Artificial-Intelligence
